@@ -1,0 +1,17 @@
+div,ul,li,ol,h1,h2,h3,h4,h5,h6,body,html,span{
+    margin:0;
+    padding:0;
+}
+#app,html,body{height:100%;}
+.login,.register{height:100%;}
+.color-red{color:red;}
+.color-blue{background-color:#09717c;}
+.color-white{color:white;}
+
+
+.margin-top--35{margin-top:35px;}
+.margin-top--50{margin-top:50px;}
+.center{text-align:center;}
+.weui-cell{
+ 
+}
